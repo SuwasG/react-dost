@@ -1,0 +1,13 @@
+.Collection{
+    width: 100%;
+    height: 100%;
+}
+.darkMode{
+    background-color: #140303;
+    color: #efe4e4;
+}
+
+.lightMode{
+    background-color: #efe4e4;
+    color: #140303;
+}

@@ -1,0 +1,56 @@
+.dark{
+    background-color: #181616;
+    
+}
+.container{
+    position: relative;
+    width: 10em;
+    margin: 0 0.2em;
+    float:left;
+}
+
+.container .darkMode{
+    color: #ebe3e3;
+}
+.container .lightMode{
+    color: #181616;
+}
+
+.pic img{
+    width: 100%;
+}
+
+.title{
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.channel, .views{
+    font-size: small;
+    color: blueviolet;
+    margin-bottom: 0.5em;
+}
+
+.views span{
+    padding: 0 0.5em;
+}
+
+.close{
+    position:absolute;
+    right:0;
+}
+.update{
+    position:absolute;
+    left:2em;
+    background-color: aqua;
+    color: rgb(1, 10, 10);
+}
+
+.edithead{
+    background-color: green;
+    color: #181616;
+}
+.addhead{
+    background-color: rgb(214, 218, 33);
+    color: #181616;
+}
